@@ -67,3 +67,14 @@ These results are exploratory and are based on a small historical dataset. Accur
 ## Reproducibility
 Run the Python scripts from the project root using the project's Python virtual environment. Install the required packages before running a script. Generated reports and model outputs are stored in the Reports/ folder.
 
+## Project Structure
+
+
+Forex_Trading_Signal_AI_Agent/
+├── Data/          # Source forex and trading datasets
+├── Excel/         # Excel analysis report
+├── PowerBI/       # Power BI dashboard and data
+├── Python/        # Data analysis and ML scripts
+├── Reports/       # Model results and validation outputs
+├── .gitignore
+└── README.md
