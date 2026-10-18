@@ -90,3 +90,30 @@ This project is intended for educational and analytical purposes only. Forex mar
 The dashboard below summarizes EUR/USD price movements, trading signals, model accuracy, and walk-forward validation results.
 
 ![Forex Trading Signal AI Dashboard](PowerBI/forex_dashboard.png)
+
+## 📈 Project Results
+
+### Model Performance — Chronological Holdout
+
+| Model | Test Accuracy |
+|---|---:|
+| XGBoost (20 features) | 53.33% |
+| Random Forest (20 features) | 52.22% |
+| Random Forest (8 features) | 51.11% |
+| Majority-Class Baseline | 47.78% |
+| LSTM (20 features) | 47.78% |
+
+### Walk-Forward Validation
+
+| Metric | Result |
+|---|---:|
+| Average XGBoost Accuracy | 55.56% |
+| Average Baseline Accuracy | 50.56% |
+| Improvement over Baseline | 5.00 percentage points |
+| Validation Folds | 4 |
+
+### Interpretation
+
+XGBoost achieved the strongest average accuracy in the experiments conducted. However, results varied across validation folds, and the dataset is limited. Further testing with larger datasets, realistic transaction costs, and additional out-of-sample validation is necessary before drawing conclusions about real-world trading performance.
+
+**Disclaimer:** This project is for educational and analytical purposes only. Historical model accuracy does not guarantee future performance or profitability. It is not financial advice.
