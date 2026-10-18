@@ -80,13 +80,13 @@ Forex_Trading_Signal_AI_Agent/
 └── README.md
 ```
 
+## Disclaimer
+
+This project is intended for educational and analytical purposes only. Forex markets involve significant risk, and historical model accuracy or backtesting results do not guarantee future performance or profitability. This project does not provide financial advice or recommend real-money trades.
+
+
 ## 📊 Power BI Dashboard
 
 The dashboard below summarizes EUR/USD price movements, trading signals, model accuracy, and walk-forward validation results.
 
 ![Forex Trading Signal AI Dashboard](PowerBI/forex_dashboard.png)
-
-
-## Disclaimer
-
-This project is intended for educational and analytical purposes only. Forex markets involve significant risk, and historical model accuracy or backtesting results do not guarantee future performance or profitability. This project does not provide financial advice or recommend real-money trades.
