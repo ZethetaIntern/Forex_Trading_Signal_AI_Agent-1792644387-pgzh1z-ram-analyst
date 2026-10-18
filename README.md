@@ -79,3 +79,7 @@ Forex_Trading_Signal_AI_Agent/
 ├── .gitignore
 └── README.md
 ```
+
+## Disclaimer
+
+This project is intended for educational and analytical purposes only. Forex markets involve significant risk, and historical model accuracy or backtesting results do not guarantee future performance or profitability. This project does not provide financial advice or recommend real-money trades.
