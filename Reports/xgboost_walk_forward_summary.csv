@@ -1,0 +1,7 @@
+Metric,Value,Unit
+Number of folds,4.0,folds
+Mean XGBoost accuracy,55.56,%
+Mean baseline accuracy,50.56,%
+Mean XGBoost balanced accuracy,55.62,%
+Best fold XGBoost accuracy,60.0,%
+Worst fold XGBoost accuracy,48.89,%

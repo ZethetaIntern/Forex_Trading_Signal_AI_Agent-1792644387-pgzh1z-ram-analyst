@@ -1,0 +1,3 @@
+Model,Test_Accuracy_Percent
+Majority-class baseline,47.78
+Random Forest,52.22

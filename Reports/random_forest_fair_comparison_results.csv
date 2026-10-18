@@ -1,0 +1,4 @@
+Model,Features,Training_Records,Testing_Records,Test_Accuracy_Percent
+Majority-class baseline,0,360,90,47.78
+Random Forest - Full,20,360,90,52.22
+Random Forest - Reduced,8,360,90,51.11

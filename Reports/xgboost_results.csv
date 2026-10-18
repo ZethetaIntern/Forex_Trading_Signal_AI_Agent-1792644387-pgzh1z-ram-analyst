@@ -1,0 +1,2 @@
+Model,Features,Training_Records,Testing_Records,Test_Accuracy_Percent
+XGBoost,20,360,90,53.33

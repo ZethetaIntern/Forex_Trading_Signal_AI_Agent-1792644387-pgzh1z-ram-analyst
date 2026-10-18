@@ -1,0 +1,2 @@
+Model,Lookback_Hours,Features,Training_Sequences,Testing_Sequences,Test_Accuracy
+LSTM,24,20,337,90,0.4777777777777778

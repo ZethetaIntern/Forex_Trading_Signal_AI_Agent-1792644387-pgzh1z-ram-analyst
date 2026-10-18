@@ -1,0 +1,2 @@
+Model,Test_Accuracy_Percent,Training_Records,Testing_Records,Feature_Count
+Random Forest - Reduced Features,48.96,384,96,8

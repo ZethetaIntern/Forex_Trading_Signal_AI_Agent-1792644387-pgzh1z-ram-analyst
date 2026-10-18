@@ -1,0 +1,6 @@
+Model,Features,Test_Accuracy_Percent
+XGBoost - 20 features,20,53.33
+Random Forest - 20 features,20,52.22
+Random Forest - 8 features,8,51.11
+Majority-class baseline,0,47.78
+LSTM - 20 features,20,47.77777777777778

@@ -1,0 +1,5 @@
+Model,Test_Accuracy_Percent
+XGBoost original,53.33
+Majority-class baseline,47.78
+XGBoost regularized,47.78
+XGBoost shallow,46.67
