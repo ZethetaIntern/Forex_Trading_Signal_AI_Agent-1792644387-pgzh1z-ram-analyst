@@ -1,5 +1,10 @@
 # Forex Trading Signal AI Agent
-
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-Modeling-EC6B23)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?logo=github&logoColor=white)
 ## Project Overview
 This project analyses historical EUR/USD forex price data and generates BUY, SELL, and HOLD signals using technical indicators. It also evaluates a basic trading strategy through historical backtesting.
 
