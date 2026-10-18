@@ -69,7 +69,7 @@ Run the Python scripts from the project root using the project's Python virtual 
 
 ## Project Structure
 
-
+```text
 Forex_Trading_Signal_AI_Agent/
 ├── Data/          # Source forex and trading datasets
 ├── Excel/         # Excel analysis report
@@ -78,3 +78,4 @@ Forex_Trading_Signal_AI_Agent/
 ├── Reports/       # Model results and validation outputs
 ├── .gitignore
 └── README.md
+```
