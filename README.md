@@ -6,7 +6,9 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?logo=github&logoColor=white)
 ## Project Overview
-This project analyses historical EUR/USD forex price data and generates BUY, SELL, and HOLD signals using technical indicators. It also evaluates a basic trading strategy through historical backtesting.
+This project analyses historical EUR/USD forex price data and generates BUY, SELL, and HOLD signals using technical indicators. It applies and compares machine-learning models, including Random Forest, XGBoost, and LSTM, using chronological holdout and walk-forward validation. The project also evaluates a basic trading strategy through historical backtesting and presents market trends and model performance through a Power BI dashboard and Excel report.
+
+Model results are exploratory and do not guarantee future performance or trading profitability.
 
 ## Objectives
 - Analyse historical forex price data.
